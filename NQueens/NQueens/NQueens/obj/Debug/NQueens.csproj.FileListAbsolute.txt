@@ -1,0 +1,6 @@
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\bin\Debug\NQueens.exe.config
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\bin\Debug\NQueens.exe
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\bin\Debug\NQueens.pdb
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\obj\Debug\NQueens.csprojResolveAssemblyReference.cache
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\obj\Debug\NQueens.exe
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\obj\Debug\NQueens.pdb

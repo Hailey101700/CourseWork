@@ -1,0 +1,5 @@
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\bin\Release\NQueens.exe.config
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\bin\Release\NQueens.exe
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\bin\Release\NQueens.pdb
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\obj\Release\NQueens.exe
+Z:\Programming Languages\C#\NQueens\NQueens\NQueens\obj\Release\NQueens.pdb
